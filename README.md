@@ -1,8 +1,8 @@
 # FVMGN
 
-Frequency-Aware Vision-Language Multimodality Generalization Network for Remote Sensing Image Classification
+**Frequency-Aware Vision-Language Multimodality Generalization Network for Remote Sensing Image Classification**
 
-This work has been accepted by AAAI-26.
+*This work has been accepted by AAAI-26.*
 
 We are currently working on the acceptance process for this AAAI-26 paper. 
 
