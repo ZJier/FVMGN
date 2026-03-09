@@ -15,3 +15,7 @@ ArXiv and Appendix do not completely overlap. This is because the upload time of
 Our research group has already opened sourced all the code related to this project. 
 
 We hope this can be helpful for the development of remote sensing communities.
+
+The overall code framework of this project is based on Zhang et al. ([https://github.com/YuxiangZhang-BIT/IEEE_TGRS_LDGnet]). If you need, you can cite their work.
+
+Thank you for their invisible help to us.
